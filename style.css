@@ -40,3 +40,7 @@ canvas
    margin-top: 160px;
    box-shadow: 5px 5px 5px grey;
  }
+body
+{
+  color: red;
+}
